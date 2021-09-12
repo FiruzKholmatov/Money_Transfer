@@ -16,7 +16,7 @@
 * [Исходный код](https://github.com/FiruzKholmatov/Money_Transfer/blob/2c9df2ae6b29c86c35659346976ec148f9d50896/src/Main.java) в формате Main.java
 
 В качестве тестовых данных использовались данные 
-* Описаные в [задаче №1](https://github.com/FiruzKholmatov/Money_Transfer/blob/2c9df2ae6b29c86c35659346976ec148f9d50896/src/Main.java) условия
+* Описаный юзер-кейс в [задаче №1](https://github.com/FiruzKholmatov/Money_Transfer/blob/2c9df2ae6b29c86c35659346976ec148f9d50896/src/Main.java) условия
 
 
 
