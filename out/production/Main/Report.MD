@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* [Баг-репорт](https://github.com/FiruzKholmatov/Money_Transfer/issues/1#issue-994167023)
+* [Баг-репорт](https://github.com/FiruzKholmatov/Money_Transfer/blob/2c9df2ae6b29c86c35659346976ec148f9d50896/src/Main.java)
 * [Исходный код](https://github.com/FiruzKholmatov/Money_Transfer/blob/2c9df2ae6b29c86c35659346976ec148f9d50896/src/Main.java) в формате Main.java
 
 В качестве тестовых данных использовались данные 
